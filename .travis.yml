@@ -25,12 +25,12 @@ deploy:
   - provider: heroku
     api_key:
       secure: QrvUmXbIQ/tcqHJMcvFHn5KkI6KqaDJSK4G9FS+C96VTw1Eo531i28B3PTywbifEXBpAD62BvgT3tSsyYrE0oseFe4LVtYDfEcgkialhEsHiGhEw+0/7FOCtEuRwgwNxnSTs+ciNB2JklwlibqmKotHmYSmZATOUOUwMMPXQ8AD6oghA8/Bmv2dqPdZ+jA+RKI52fF8hhRsqd7DA5wbkAMZgbu1gxfjCnBYkTO6bD0+8Xj1cvECI/Mt0xGkw0IPhNNHuF6nikTY/nejdeffi9hkkUn/PECD4lbNjDYiZCaLNO8xRA/EYSRVCY+WqaTzpRVkEbBHdRbB/1K/MZMUzzwzAQll1wySKmyFyCLSODoDEW3//zFu/fb2YBrCG7KSMaLuoC+R/TGyBfgEkvgUgo7RLkr50LPp1OdVqIWgM+wIIIbJSVzGXHN7SBpDevzfO9OVh6klzClVRuI1oRfIRzrzDeotf21T4MJtZn/SdJjZHYgBCiHeQpL6HdggzFHLkgcAXlKRpuDKH15i1tul9AOkFbgbFKuXh3/HAMoxIvkDHMSf0uGxkB+/jof2jtW5MveMwolBowQg1mnbuJT3aLdOgmPP0ykhR6Ix4mpDkF4TD8zLskogE83zb4nJWmPbkwkMhkXdrdAINO9gLGuOSh/icVwR/7btfF3z0RJ9Gk7E=
-    app: 
+    app:
       master: dev-precaution
   - provider: heroku
     api_key:
       secure: QrvUmXbIQ/tcqHJMcvFHn5KkI6KqaDJSK4G9FS+C96VTw1Eo531i28B3PTywbifEXBpAD62BvgT3tSsyYrE0oseFe4LVtYDfEcgkialhEsHiGhEw+0/7FOCtEuRwgwNxnSTs+ciNB2JklwlibqmKotHmYSmZATOUOUwMMPXQ8AD6oghA8/Bmv2dqPdZ+jA+RKI52fF8hhRsqd7DA5wbkAMZgbu1gxfjCnBYkTO6bD0+8Xj1cvECI/Mt0xGkw0IPhNNHuF6nikTY/nejdeffi9hkkUn/PECD4lbNjDYiZCaLNO8xRA/EYSRVCY+WqaTzpRVkEbBHdRbB/1K/MZMUzzwzAQll1wySKmyFyCLSODoDEW3//zFu/fb2YBrCG7KSMaLuoC+R/TGyBfgEkvgUgo7RLkr50LPp1OdVqIWgM+wIIIbJSVzGXHN7SBpDevzfO9OVh6klzClVRuI1oRfIRzrzDeotf21T4MJtZn/SdJjZHYgBCiHeQpL6HdggzFHLkgcAXlKRpuDKH15i1tul9AOkFbgbFKuXh3/HAMoxIvkDHMSf0uGxkB+/jof2jtW5MveMwolBowQg1mnbuJT3aLdOgmPP0ykhR6Ix4mpDkF4TD8zLskogE83zb4nJWmPbkwkMhkXdrdAINO9gLGuOSh/icVwR/7btfF3z0RJ9Gk7E=
-    app: 
+    app:
       master: precaution
     on:
       all_branches: true
